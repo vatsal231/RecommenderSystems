@@ -7,11 +7,8 @@ Spyder Editor
  
 
 """
-Implementation of Iautorec (item-based autorec).
-The author proved that Iautorec (item-item matrix) is better than Uautorec (user-item matrix). 
 Paper: http://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf
 """
-
 
 import matplotlib.pyplot as plt
 import numpy as np
